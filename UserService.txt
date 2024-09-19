@@ -6,3 +6,5 @@ Create an avatar for user
 login and logout
 
 change1
+
+changes in feature3 branch
